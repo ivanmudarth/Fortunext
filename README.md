@@ -9,7 +9,7 @@
     Financial literacy education made simple.
   </p>
   <p align="center">
-  <strong> 1st Place at Wealthsimple's Alpha Hacks II>
+  <strong> 1st Place at Wealthsimple's Alpha Hacks II </strong>
   </p>
 </p>
 
