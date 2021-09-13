@@ -19,9 +19,13 @@
 
 ## Description
 
-## Features
+Financial education within high school can be boring, dull, and minimal. Additionally, only 1 in 6 high schools students get the opportunity to learn about personal finance. A subject that is so important is often underemphasized in education and is taught through ineffective means. 
+
+Fortunext is a collection of tools that make personal finance accessable and interesting. The computer app uses gamification techniques to teach finance terms and their definitions. The Chrome extension automatically spots finance terms when a user is browsing articles and explains them, offering helpful resources. 
 
 ## Technologies
+* Java (Application)
+* Javascript (Chrome Extension)
 
 ## Authors
 
