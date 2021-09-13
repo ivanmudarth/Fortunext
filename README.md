@@ -19,3 +19,14 @@
 
 ## Description
 
+## Features
+
+## Technologies
+
+## Authors
+
+Ivan Mudarth (@ivanmudarth)
+
+Siddu Palaparthi (@PSiddu)
+
+Het Parikh (@Het7)
